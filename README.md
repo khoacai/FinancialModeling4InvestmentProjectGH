@@ -1,2 +1,1 @@
-# StockPredictorRRepBB
-The project of applying ML to predicting stock movement (using R)
+A repository of financial modeling implemented in MS Excel.
